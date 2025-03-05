@@ -24,7 +24,7 @@ title: Valkair
 - [Brawn](/Brawn)
 - [Gunnar](/Gunnar)
 - [Riven Thermage](/Riven-Thermage)
-- [Hanzt](/Hanzt)
+- [Hanzt](/valkair/Hanzt)
 
 ### Major Characters
 - [Caerdan Thrandurassil](/Caerdan-Thrandurassil)
