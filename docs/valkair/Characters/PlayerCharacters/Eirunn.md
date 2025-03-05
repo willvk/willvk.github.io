@@ -1,0 +1,9 @@
+One quiet evening in the deep woods of the Middens, [[Riven|Riven]] was walking slowly along a soft, leaf-covered path. The sky was dark and filled with twinkling stars, and the only sounds were the whisper of the wind and the rustling of leaves. As he wandered, he heard a soft, sad whimper coming from behind a bush. Curious and caring, Riven tiptoed over to see what was happening.
+
+Behind the bush, he found a young brown bear cub lying on the ground. The little bear looked a bit scared and had a hurt leg that made it wince with every movement. Even though bears can appear fierce, this cub seemed gentle and in pain. “It’s okay, I won’t hurt you,” Riven murmured softly.
+
+As he looked at the little creature, Riven saw a part of himself in her—both were hurt and in need of care. Wanting to help heal not only her wounds but also his own broken heart, he decided to name her Eirunn. Her name was inspired by [[Eir]], the Norse goddess of healing, and it meant that she was like a gentle healer—a guardian who could help mend his inner hurts.
+
+Riven carefully cleaned Eirunn’s injured leg with water from a nearby stream and gently wrapped it with strips of cloth. He shared some of his own food with her and stayed by her side all through the night, speaking softly and offering gentle touches. Slowly, Eirunn began to trust him. She stopped whimpering and even let out a quiet, grateful sound.
+
+In the days that followed, Riven and Eirunn became the best of friends. They played together in the forest, exploring the wild paths of the Middens. Whenever Riven felt lonely or sad, Eirunn would press her warm muzzle against his hand, reminding him that he wasn’t alone. She became not only his brave and loyal companion but also a symbol of healing—a promise that even when you feel broken, kindness can help you feel whole again.

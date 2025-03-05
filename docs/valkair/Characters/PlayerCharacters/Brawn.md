@@ -1,0 +1,5 @@
+Brawn grew up in a simple orcish village called [[Murgrog]] where orcs employed specialized grappling techniques to subdue the large animals they rode as mounts. After falling on hard times Brawn moved to a nearby village where he began wrestling for entertainment. He quickly moved up through the ranks due to his size and skill. 
+
+After a run of success, he was approached by some shady characters who offered him "something special to take a dive" he found a small satchel containing hand wraps in his change tent shortly after. Refusing to fall in the match he was blacklisted from many of the local fights.  
+
+Shortly after [[ThePact]] took [[Hammerfall]] he was "investigated" and thrown in a cell. Furious about this betrayal he simmered for some time in the fury of this betrayal. In the deep quiet of prison, he decided to pursue a new focus.

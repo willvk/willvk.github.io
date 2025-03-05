@@ -21,9 +21,9 @@ Valkair is a world of **darkness and horror**. **Monsters unknown to the world**
 ### Places & Geography
 [[The Middens]]
 [[Hammerfall]]
-	[[Dres Elas]]
-	[[Upper Hammerfall]]
-	[[The Shallows]]
+	[[DresElas]]
+	[[UpperHammerfall]]
+	[[TheShallows]]
 	[[Catacombs]]
 
 ### Species & Peoples
@@ -33,24 +33,24 @@ Valkair is a world of **darkness and horror**. **Monsters unknown to the world**
 [[Smallfolk]]
 
 ### Player Characters
-[[Balder Snow]]
+[[Balder]]
 [[Brawn]]
 [[Gunnar]]
-[[Riven Thermage]]
+[[Riven]]
 [[Hanzt]]
 
 ### Major Characters
-[[Caerdan Thrandurassil]]
+[[Caerdan]]
 [[Hannah]]
-[[Ivar the Terrible]]
-[[Orgrim Doomhammer]]
-[[Trader Yennen]]
+[[Ivar]]
+[[Orgrim]]
+[[Yennen]]
 
 ### Factions
-[[The Guild]]
-[[The Pact]]
-[[The Pack]]
-[[Loki's Hand]]
+[[TheGuild]]
+[[ThePact]]
+[[ThePack]]
+[[Loki'sHand]]
 ### The Gods
 [[Njord]]
 [[Eir]]

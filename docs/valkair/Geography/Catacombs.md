@@ -1,0 +1,1 @@
+A labyrinth originally containing the tombs of the elven royal family and aristocrazy over the millenia. The catacombs burrow through the mountains and rock underneath Dres\`Elas and stretch on endlessly into the unknown.

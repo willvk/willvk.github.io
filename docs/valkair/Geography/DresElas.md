@@ -1,0 +1,1 @@
+The name of Hammerfall in Elven times. It was the seat of the [[Thrandurassil]] [[Elves]] and homeland of [[Caerdan]]

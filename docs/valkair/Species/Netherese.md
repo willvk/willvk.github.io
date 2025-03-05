@@ -1,1 +1,0 @@
-One of the ruling families of Elves. A prominent member of Elven aristocrazy. The husband of Queen Aduni Thrandurassil was a young Netherese Elf. He will later grow into [[Caerdan Thrandurassil]]'s father.
