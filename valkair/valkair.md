@@ -3,6 +3,8 @@ layout: default
 title: Valkair
 ---
 
+[Back to Home](../index.html)
+
 ## Navigating the Content
 
 ### Places & Geography
