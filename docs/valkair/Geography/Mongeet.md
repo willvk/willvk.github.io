@@ -17,7 +17,7 @@ Mongeet **hugs the riverbank**, its streets a maze of wooden walkways, **half-fl
 - Fishmongers gut and sell their catch at crowded markets.
 - Cargo is hauled from ships by **dockhands**, many of them half-drowned in sweat and ale.
 - Merchants barter for exotic goods brought from across the sea.
-- [[TheBlackTideTavern]] is a resting spot for tired sailors, though a brawl or two is never far off.
+- [[The Black Tide Tavern]] is a resting spot for tired sailors, though a brawl or two is never far off.
 
 **By Night:**
 
@@ -30,7 +30,7 @@ Mongeet **hugs the riverbank**, its streets a maze of wooden walkways, **half-fl
 
 ## **Notable Locations**
 
-### [[TheBlackTideTavern]]
+### [[The Black Tide Tavern]]
 
 A notorious drinking hole and smuggler’s den, built on stilts over the river. The owner, **Varka "Low Tide" Brogg**, runs it with a mix of old pirate wisdom and brute strength.
 
@@ -82,7 +82,7 @@ Mongeet is home to a mix of **dockworkers, merchants, sailors, and criminals**, 
 
 ---
 
-### **2. [[Kvarrac]]** _(Leader of [[Loki'sHand]], Mongeet’s Crime Syndicate)_
+### **2. [[Kvarrac]]** _(Leader of [[Loki's Hand]], Mongeet’s Crime Syndicate)_
 
 
 ---

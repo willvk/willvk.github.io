@@ -2,7 +2,6 @@
 ---
 You will find this is my creative place but you're welcome to visit
 
-![[selfie.jpg]]
 ## [[Valkair]]
 
 Valkair is my Norse-inspired Homebrew world for Pathfinder2e, we are right in the middle of our campaign at the moment and you will find lots of session planning, information on the world and lore.

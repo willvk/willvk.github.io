@@ -24,7 +24,7 @@ Slightly higher class of elves, skilled labourers or more valued Elves.
 ### [[Richeri]]
 Market districts and roads to Upper Hammerfall.
 #### [[Kingsroad]]
-Road to [[UpperHammerfall]], previously called the High Kings road but has become known as Kingsroad
+Road to [[Upper Hammerfall]], previously called the High Kings road but has become known as Kingsroad
 
 ### [[Orgate]]
 Previously known as the Ork gate due to the prevalence of Ork attacks through the southwestern gates to the city.

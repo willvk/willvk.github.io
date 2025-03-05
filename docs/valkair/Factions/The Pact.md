@@ -8,8 +8,8 @@ Duties: Law, Allocation of Food, Property, Trials and Punishment, Maintenance, M
 [[Orgrim]] - [[Ork|Orks]]
 Duties: Guards, Defense of the City, Distribution of food to the Elves, Trial by combat, Weapon and Armour Smithing
 
-[[Yennen]] - [[TheGuild]]
+[[Yennen]] - [[The Guild]]
 Duties: Taxes, Moneylending, Merchant Licensing, Dock Trade, Paying the soldiers, Paying for City maintenance
 
-[[Speaker]] - [[TheChosen]]
+[[Speaker]] - [[The Chosen]]
 Duties: Securing the Catacombs, Temples, Religious Events, Worship, Sacrifices

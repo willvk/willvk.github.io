@@ -2,7 +2,7 @@ aka Hannah Half Elven, aka Hannah the Forsaken
 Servant of the Demon Lord Osgilliath, Pit Lord of Hel. Daughter of Heimdall and Queen Aduni Thrandurassil. 
 ## Story of Hannah the Forsaken
 
-The empire of [[DresElas]] was a bastion of the high elves. Superior to all cities and proud. The noble family of [[Thrandurassil]] had long ruled over Dres elas and the known world. The young queen Aduni, had taken an even younger husband of [[Netherese]] descent, a prominent Elven house. He was not yet of an age to stand behind the queen in their marriage. When the diplomats from the outer realms came to court; the queens eye was taken with a human from the northern reaches, a mountainous folk, come to terms for trade. Heimdall, as he called himself. That name was to be cursed for together they formed a horrid union in the eyes of all. They were lovers and he flaunted her favour brazenly. This continued until the diplomat was banished by the Legion Commander back to his people. Surely suing difficult times ahead for the reaches as food was scarce and monsters plentiful.
+The empire of [[Dres Elas]] was a bastion of the high elves. Superior to all cities and proud. The noble family of [[Thrandurassil]] had long ruled over Dres elas and the known world. The young queen Aduni, had taken an even younger husband of [[Netherese]] descent, a prominent Elven house. He was not yet of an age to stand behind the queen in their marriage. When the diplomats from the outer realms came to court; the queens eye was taken with a human from the northern reaches, a mountainous folk, come to terms for trade. Heimdall, as he called himself. That name was to be cursed for together they formed a horrid union in the eyes of all. They were lovers and he flaunted her favour brazenly. This continued until the diplomat was banished by the Legion Commander back to his people. Surely suing difficult times ahead for the reaches as food was scarce and monsters plentiful.
 
  Many months later the queen gave birth to a hateful child. A progeny of both cultures and there was no greater a shame to the noble line. The child was banished from the royal houses and forced into a hidden family farming upon the fields. Much to the queens torment she was prevented from any communication with her daughter and the child’s noble progeny was to be hidden from her. The foster family was provided a royal tithe to keep this secret and a promise of death if it should come to light.
 
@@ -16,4 +16,4 @@ The empire of [[DresElas]] was a bastion of the high elves. Superior to all citi
 
 ## Recent events
 
-- Freed from her imprisonment by the [[Elves]] in the Fall of [[DresElas]] by the party [[1.2.0 - A city overrun]]
+- Freed from her imprisonment by the [[Elves]] in the Fall of [[Dres Elas]] by the party [[1.2.0 - A city overrun]]

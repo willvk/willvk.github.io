@@ -23,9 +23,9 @@ Valkair is a world of **darkness and horror**. **Monsters unknown to the world**
 ### Places & Geography
 [[The Middens]]
 [[Hammerfall]]
-	[[DresElas]]
-	[[UpperHammerfall]]
-	[[TheShallows]]
+	[[Dres Elas]]
+	[[Upper Hammerfall]]
+	[[The Shallows]]
 	[[Catacombs]]
 
 ### Species & Peoples
@@ -49,10 +49,10 @@ Valkair is a world of **darkness and horror**. **Monsters unknown to the world**
 [[Yennen]]
 
 ### Factions
-[[TheGuild]]
-[[ThePact]]
-[[ThePack]]
-[[Loki'sHand]]
+[[The Guild]]
+[[The Pact]]
+[[The Pack]]
+[[Loki's Hand]]
 ### The Gods
 [[Njord]]
 [[Eir]]

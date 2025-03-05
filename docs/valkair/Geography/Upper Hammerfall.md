@@ -1,4 +1,4 @@
-Upper Hammerfall is the ancient seat of the [[Elves]] but they have been displaced and now new leadership holds sway. [[ThePact]] controls the power here, though the three districts are divided between the [[Ork]] and [[Norse]] tribes and the Palace which seats The Pact and their close retinue. Few others are permitted passage to Upper Hammerfall but The Guild and the mysterious Chosen control small patches of influence, as reward for their part in taking Hammerfall.
+Upper Hammerfall is the ancient seat of the [[Elves]] but they have been displaced and now new leadership holds sway. [[The Pact]] controls the power here, though the three districts are divided between the [[Ork]] and [[Norse]] tribes and the Palace which seats The Pact and their close retinue. Few others are permitted passage to Upper Hammerfall but The Guild and the mysterious Chosen control small patches of influence, as reward for their part in taking Hammerfall.
 
  The architecture here is sharp, curved and beautiful. Every rock fits neatly alongside its neighbor every vine bends in a way to support both the beauty and the grace of each building. Roads curl elegantly around the district. The marble and cobblestones are separated by natural flowers and roots which match the height and soften the footfalls upon it. All around nature and beauty intermingle and produce an awe-inspiring but intimidating presence which seems to loom after its new inhabitants.
 
@@ -6,4 +6,4 @@ The [[Norse]] which serve under [[Jarl Ivar]], known by his enemies as "the terr
 
 The [[Ork]] warbands serve under [[Orgrim]] and continue to lust for blood. They are currently satiated with their lot, but Orks have never been known to play nicely with others for long. This treaty with the petulant humans grows tiresome. The humans are weak and far too merciful, though they outnumber us two to one, none can stand against the wrath of the Horde. Why were any of the pointy-ears allowed to live? Why do we feed our enemies? No this tenuous treaty cannot last and when it finally falls, Doomhammer will be ready to be holding the hill from the skulls of his foes once more.
 
-[[TheChosen]],
+[[The Chosen]],
