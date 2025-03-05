@@ -1,3 +1,5 @@
+[[Horde]]
+
 Orks are a formidable and resilient species, characterized by their large, muscular builds and distinctive features. They typically have tough, green or grayish skin, with prominent tusks that protrude from their lower jaws, adding to their imposing appearance. Many Orks wear their hair long, often braided and adorned with beads or ornaments that symbolize their clan or personal achievements. Their clothing is practical, made from furs, leather, and metal, reflecting a rugged lifestyle suited for their harsh environments.
 
 Ork society is organized into tight-knit clans, each governed by a chieftain or leader chosen for their strength and leadership abilities. Honor, loyalty, and strength are highly valued traits, and the bonds of kinship and community are fundamental to their culture. Celebrations of shared victories and achievements are common, with feasting and storytelling serving as vital components of their social life. Oral traditions play an essential role in preserving the history of their people, with bards recounting tales of legendary warriors and heroic deeds.
