@@ -1,4 +1,5 @@
-site_name: obsidian-mkdocs template
+site_name: William Van Keulen's Website
+site_description: A personal website for William Van Keulen
 
 theme:
     name: 'material'
