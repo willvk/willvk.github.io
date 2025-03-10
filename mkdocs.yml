@@ -1,15 +1,18 @@
-site_name: William Van Keulen's Website
-site_description: A personal website for William Van Keulen
+site_name: Devil's Snare
+site_description: Writings, thoughts, and notes on various topics.
+site_author: William Van Keulen
+site_url: https://www.williamvankeulen.com
 
 theme:
     name: 'material'
+    logo: 'valkair/imgs/thonking.png'
     palette:
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: pink
-      accent: indigo
+      primary: blue-grey
+      accent: light blue
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -17,8 +20,8 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: pink
-      accent: blue
+      primary: blue-grey
+      accent: light blue
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
@@ -66,3 +69,14 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js 
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/willvk.github.io
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/williamvk/
+
+repo_name: willvk/valkair
+repo_url: https://github.com/willvk/valkair
