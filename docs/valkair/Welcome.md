@@ -1,6 +1,8 @@
+*Valkair is a raw and savage land with no time for pity or weakness. The people who survive in this tough climate are hardened and often earn their place through their fearlessness and ferocity.*
+
 [[#Navigating the Content|Explore the world]]
 
-![[valkair2.png]]
+![[Pasted image 20250311005323.png]]
 # Motivation
 
 An opportunity for storytelling and playing through the Viking Ages of middle eastern europe. The Vikings and the Norse mythology tell of an intriguing time of; exploration, brutality, heroism but also venturing out to find a better world for your people and family. It is a tale of clashing cultures and the spread of religion in the face of horrifying foes - pure unadulterated violence met with a bare neck of faithfulness and fanatiscism. These are intriguing themes and a setting which is of simple people and their desires but complex situations, politics and belief-systems oh and some cool monsters.
