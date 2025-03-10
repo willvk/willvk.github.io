@@ -1,4 +1,4 @@
-![[Pasted image 20250311005323.png]]
+![[middens.png]]
 
 ### Nilfheim Gate
 The only known passage into the Spine of the World. It is a winding icy trail into the mountains which suffers no ordinary man. It is said the world ends at the Spine and that one will simply fall forever through the depths of Hel if they try to cross. Only the dwarves have been known to master passage to the Spine and they hold its secrets still.

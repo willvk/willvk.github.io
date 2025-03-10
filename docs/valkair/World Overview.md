@@ -1,10 +1,11 @@
+# World Overview
+
 *Valkair is a raw and savage land with no time for pity or weakness. The people who survive in this tough climate are hardened and often earn their place through their fearlessness and ferocity.*
 
 [[#Navigating the Content|Explore the world]]
 
-![[Pasted image 20250311005323.png]]
+![[middens.png]]
 # Motivation
-
 An opportunity for storytelling and playing through the Viking Ages of middle eastern europe. The Vikings and the Norse mythology tell of an intriguing time of; exploration, brutality, heroism but also venturing out to find a better world for your people and family. It is a tale of clashing cultures and the spread of religion in the face of horrifying foes - pure unadulterated violence met with a bare neck of faithfulness and fanatiscism. These are intriguing themes and a setting which is of simple people and their desires but complex situations, politics and belief-systems oh and some cool monsters.
 # Annnnnnnnd why should I care 
 The archetypal Viking is a common ttrpg trope, a brutal fearless and powerful warrior. The Viking Ages of history are about as close to real fantasy as you can get. Their mythology speaks of strange warlike gods who exemplify the honor of battle and the dedication to a skillful pursuit. It is rare in current times to deify or idolize violence but the Norse mythos does this all the time. The norse gods also emulate human stupidity and lustfulness at times with stories which speak to great power or accomplishment as a reward for true gruesome sacrifice or mastery of some trial. The gods are not infallible however and many of Loki's stories tell of deceit or progeny as a consequence of an ill-considered action. It is simple and creates great opportunities for ttrpg storytelling.
