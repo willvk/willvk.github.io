@@ -1,7 +1,7 @@
-This repository simply holds all the published content for my website @ williamvk.com !
+This repository simply holds all the published content for my website @ [williamvk.com](williamvk.com) !
 
 Currently my website simply holds:
 
-Welcome
-	Blog
-	Valkair
+Welcome  
+	- Blog  
+	- Valkair  
