@@ -1,3 +1,11 @@
 Orc faction
 Hunts elves
 Saved Gunnar
+
+The Pack are a small wandering band of mercenaries who specialize in bounty hunting. They hunt both creatures and humanoids alike. The packs leader Shard was once a Jarl but declines to talk about whenever the subject is brought up. His second in command Yataaguh was a shield maiden for a once affluent house.
+
+The Pack is made up of diverse backgrounds with the majority of its members being of the Karl cast with a few escaped thralls thrown in. Shard is the only known Jarl although social rank doesn't mean much to the group. Most decisions are made by council and where decisions are split non-deadly combat is used to decide. The group works for coin but will not par take in the killing of unarmed women or children but if you chose to draw blades against them then may Odin be on your side for they've sent many souls onto Valhalla. The Pack will accept almost all paying bounty jobs and don't discriminate between clients but if wronged or short handed after completing a job then names of all involved are added to Shard's ledger and no name has ever been added twice!
+
+Almost all of the members have suffered at the hands of the elves or the guild (through no fault of their own) and were offered a way out or revenge by Shard. Any chance to square those wrongs is met in unison by each and every member. The pack looks out for its own. Each member is given a runic scar on the body by Shard upon swearing their oath.
+
+Gunner has learned a lot from the group, Might may make right for smaller social situations but knowledge and knowing the enemies weaknesses is power. That he has learnt will bring any foe to its knees. With little know about Gunner's past and lineage as he was found as a babe by Yataaguh and already possessing the runic scars the pack took him in without hesitation as though it was fate. The group has recently had a few members murdered under strange circumstances and Shard has sent Gunner to go and see what information he can find in the city about the deaths. Shard fears the guild or some Elven faction may have infiltrated/coerced a member of the band to sell information on the pack and its dealings.
