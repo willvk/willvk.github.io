@@ -18,8 +18,7 @@ Leader : [[Kvarrac]]
 **Notable people:** [[Kvarrac]], which is a title his name is Kvarrac pronounced Varric
 
 The Fingers, his most trusted people;
-- [[Varka]], Low-Tide Brogg 
-- [[Veylith Lorarion]], 
-- [[Brelka]], "The Riptide"
-- [[Grettir]], "The Leech"
-- [[Borug]], "The Barnacle"
+- [[Varka]], Low-Tide Brogg  - runs the pub, 
+- [[Veylith Lorarion]], distribution and smuggling to the elves
+- [[Brelka]], "The Riptide", smuggling fencing and evading the guild
+- [[Grettir]], "The Leech", surgeon, black market on monster parts and for a certain price any other parts as well
