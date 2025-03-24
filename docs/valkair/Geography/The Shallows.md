@@ -18,7 +18,7 @@ Used to be called the Fishmonger's Meet but has been shortened over time to Mong
 ### [[Eastern Elf Shallows]]
 Elven Ghetto
 
-### [[West Elf Shallows]]
+### [[Western Elf Shallows]]
 Slightly higher class of elves, skilled labourers or more valued Elves.
 
 ### [[Richeri]]
