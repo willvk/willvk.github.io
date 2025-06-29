@@ -37,6 +37,10 @@ A massive, crumbling mill once powered by elegant elven magic but now worn down 
 
 A series of underground storage chambers, kept magically preserved to prevent grain and other food supplies from spoiling. The tunnels are labyrinthine, known only to the elves who work there. Though it is owned and overseen by an ork warlord named **Gorruk the Fat**, the elves still whisper of the vaults’ original purpose—once sacred chambers designed to sustain their people through famine.
 
+### 5. The Ember Chain (Elven Metalsmithing shop) 
+- New human name—cruel nod to the enslaved elven smiths.
+- The old elven name is etched in a hidden corner, long defaced. (Thalan’Seren)
+
 **Secrets & Hooks:**
 
 - Some of the older vaults contain ancient elven rations that have remained perfectly preserved for centuries. What else might be hidden in the deepest chambers?
