@@ -1,0 +1,5 @@
+Among the elves of Valkair, **Rethra’kael** is a name spoken only in fear and disgust. It refers to those whose blood has been **defiled by the Fiend Below, Osgilliath**, bound through **sacrifice, demonic pacts, and profane rebirth**. They are not merely corrupted elves, but **fallen kin who have drunk of forbidden power and been remade by it**.
+
+The acolytes recount that the first of the Rethra’kael were born when **Hannah the Forsaken** offered her own body and blood upon a bleeding altar deep beneath Hammerfall. Her death and rebirth forged a lineage of blood-drinkers — warriors and cultists who **consume her tainted essence**, gaining unnatural strength, resilience, and longevity, while surrendering their will to the whispering depths.
+
+Their name is **whispered in terror**. It is the fear of a **living death** — of an elf returning home **demented and deformed**, driven by a **hunger for demon blood**, compelled to **slaughter and devour their own family and loved ones**. To speak the word _Rethra’kael_ aloud is to invite nightmares, for it means that **what was once kin now walks as a monster**.
