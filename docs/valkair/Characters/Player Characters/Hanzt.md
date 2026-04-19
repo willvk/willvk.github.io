@@ -8,5 +8,7 @@ Usually he'd interrogate scumbags and lowlifes, but after taking orders from one
 
 Now forever on the run from The Guild, he can only attempt to atone for his past life, and prove to himself that there is good within himself that is worth redemption. To maintain anonymity, the braid and beard that had once made him notorious had to go.
 
+The hunt beneath the temple should have felt like redemption. Instead, the visions of what the ritual claimed — hundreds? thousands? — have settled into Hanzt's quiet hours like a slow poison. He knows well how to brew something that dulls the mind, and he has turned that knowledge on himself. Flasks appear as if from nowhere — tucked inside his coat, wedged behind his kit — and he reaches for them more often than he would like to admit. The alchemy that once made him feared has become the instrument of his own unravelling.
+
 ![[Guildhantz.png]]
 
