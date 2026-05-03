@@ -1,7 +1,6 @@
-AKA The Rat King
+# Kvarrac
+*aka The Rat King - former leader of [[Loki's Hand]]*
 
-- **Race:** [[Smallfolk]] ([[Ratfolk]])
-- **Description:** An aged wiry ratfolk dressed in finery, he is soft spoken and walks with a staff though does not seem to need it.
-- **Personality:** **Unpredictable, cunning, and vicious**—switches from charming to murderous in an instant. Will do anything to protect his people.
+Kvarrac was an aged ratfolk dressed in finery, soft-spoken one moment and murderous the next. He ruled the criminal underworld of Mongeet through [[Loki's Hand]] until Brelka killed him in the back room of [[The Black Tide Tavern]].
 
-Secret - [[Kvarrac-S1]]
+He was one of the original three Fingers of the Hand alongside Brelka and Varka.

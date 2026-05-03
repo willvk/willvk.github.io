@@ -1,5 +1,6 @@
-#### Varka "Low Tide" Brogg (Half-Orc, Female, Mid-40s)**
+# Varka
+*aka "Low Tide" Varka Brogg - proprietor of [[The Black Tide Tavern]]*
 
-Owner and proprietor [[The Black Tide Tavern]]
+Varka is a former pirate who lost her ship and most of her crew in a naval ambush. She retired to [[Mongeet]] and took over the Black Tide Tavern, where her rules are simple: no killing, no cheating the house, and no slitting throats where she drinks.
 
-A former pirate who lost her ship and most of her crew in a naval ambush, Varka Brogg retired to Mongeet and took over the Black Tide Tavern. With deep scars across her arms and a missing tusk, she commands respect from patrons with her booming voice and iron glare. She allows smugglers to do business as long as they follow her rules: **"No killing, no cheating the house, and no slitting throats where I drink."**
+She was one of the three original Fingers of [[Loki's Hand]] and is now the only surviving founder.

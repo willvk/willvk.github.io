@@ -52,6 +52,10 @@ Valkair is a world of **darkness and horror**. **Monsters unknown to the world**
 - [[Orgrim]]
 - [[Yennen]]
 
+### Recent Faces
+- Vress - the old kobold matriarch of Depth 4
+- Skit - Vress's translator, quick enough to edit as he goes
+
 ### Factions
 - [[The Guild]]
 - [[The Pact]]

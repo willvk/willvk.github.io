@@ -1,4 +1,6 @@
-pronounced Seer-dan
-Caerdan Thrandurassil
+# Caerdan Thrandurassil
+*Current High King of the Elves - House Thrandurassil*
 
-Caerdan is the current High King of the [[Elves]]. He is a gifted magus and has seen to the establishment of power of the elves. An extremely devout leader, he is infatuated with the Gods.
+Caerdan rules the elves from the old Thrandurassil line. He is a gifted magus, deeply devout, and a visible face of elven authority in [[Hammerfall]].
+
+A statue to him stands in the city. His court carries the weight of tradition, religion, and a long memory.

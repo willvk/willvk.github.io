@@ -1,4 +1,6 @@
-Leader of the [[The Chosen]]
-Actual name Krael Greeneye
+# The Speaker
+*Blood Elf representative of [[The Chosen]]*
 
-One of Hannah's inner circle. He was one of her biggest bruisers and most loyal ruffians. When she gave herself to the Demon Lord, Krael was inspired by the power and destruction gifted to Hannah. He was jealous as well and is now one the most devoted to proving himself worthy in the eyes of Osgilliath.
+The Speaker speaks for the Chosen on [[The Pact]]. He handles the catacombs, temples, worship, and the rituals that keep the Blood Elf presence in Hammerfall organized.
+
+He is one of the clearest public faces of the cult.

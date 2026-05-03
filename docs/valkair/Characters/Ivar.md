@@ -1,7 +1,6 @@
-Ivar Varangr is the leader of the [[Norse|Norsemen]] who took [[Hammerfall]] from the [[Elves]].
-Ivar the Terrible
-He is a member of [[The Pact]].
+# Ivar Varangr
+*Ivar the Terrible - Jarl of the Norsemen - Pact representative*
 
-Jarl Ivar united the various tribes of humans north of Hammerfall into the largest human host in history. He then allied with [[Orgrim]] leader of the Orkish Tribes and assembled The Great Heathen Army using it to successfully conquer Hammerfall.
+Ivar united the Norse tribes north of Hammerfall into a single host, allied with [[Orgrim]], and helped take the city from the elves. He sat on [[The Pact]] for the Norse.
 
-Secret: [[Ivar-S1|Ivar]]
+His rule ended at the council chambers. Harald killed him during the Blood Elf attack in session 1.7.1.
