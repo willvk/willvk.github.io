@@ -1,6 +1,5 @@
 # Balder
-*Human - former Jarl of Yorvik - Black Tide Tavern hand*
 
-Balder came from Yorvik, a small town north of Hammerfall, where he was once the local Jarl. [[Ivar]] took his wife during a raid, and Balder's life never really recovered from the loss.
+Balder is actually originally from a small hamlet town called [[Yorvik]], a few days north of Hammerfall - where he was the local Jarl. They were only a small community who were mostly self reliant. Balder was a strong Viking warrior once and he took himself a beautiful bride, Ygritte, after joining a large settlement in their raids on towns to the east. He bedded her as was his prize. On returning to [[Yorvik]] with his bride he was confronted by the larger settlements Jarl [[Ivar]]. Ivar and his goons snatched his new bride away and beat him down. Almost a year passed and a thin raft arrived downriver to Yorvik, upon which was tied an infants carcass with runes carved into its chest which read. Here lies Balder's Bastard. Balder fled in the face of that horror, leaving his town and never returning often seeking solace at the bottom of a bottle
 
-He works at [[The Black Tide Tavern]] for coin and drinks hard enough to keep the past quiet.
+The years of loss have carved deep guilt into Balder's chest, a wound he has never found the words to name. He numbs it the only way he knows — drink, and plenty of it. When sober plans crumble around him and comrades look to him for answers he no longer trusts himself to have, that guilt curdles into rage. He becomes reckless, throwing himself at problems head-on with little thought for those beside him — as if suffering enough might somehow balance the ledger of everything he has lost.

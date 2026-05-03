@@ -1,6 +1,16 @@
 # Riven
-*Unknown - Ranger - orphanage backstory*
 
-Riven grew up in an orphanage in [[The Middens]] that turned out to be a Guild slave farm. Three friends helped him and the other children escape: Liora, Torran, and Etta.
+Riven Thermage grew up in an orphanage nestled in [[The Middens]]—a wild, forested stretch just outside the city where nature was as unforgiving as it was beautiful. Life there was a constant struggle for survival, and in that harsh environment, Riven found his only family in three close friends: Liora, whose warm smile and gentle heart could light up even the darkest day; Torran, who was always ready to stand up and protect them; and Etta, smart and resourceful, with a deep fascination for legends—especially those of [[Ullr]], the Norse god of archery, hunting, and winter.
 
-Etta gave him a bow that later became Winter's Vigil. Since then, Riven has been on a slow path toward understanding what he survived and who he can trust.
+One fateful day, everything changed. The children discovered that their orphanage wasn’t the safe haven they believed it to be—it was a trap, a holding pen designed to break their spirits and prepare them for a life of servitude and slavery. With danger closing in fast, they knew they had to act quickly. In that desperate moment, Etta passed Riven what appeared to be a simple hornbow—an ordinary weapon, unremarkable at first glance. “Take this,” she urged, her eyes shining with both sorrow and fierce determination, “let it protect you, and remember that our sacrifice means hope still exists even in the darkest times.”
+
+No sooner had she spoken than [[Liora]] and [[Torran]] sprang into action. The three of them—Liora, Torran, and [[Etta]]—created diversions to help the others escape, risking everything to distract their captors. Amid the chaos, Riven clutched the hornbow and fled into the shadowy woods of the Middens. However, as he darted between the trees, he found himself nearly cornered by those who pursued him.
+
+Just when it seemed there was no escape, something extraordinary happened. As Riven’s heart pounded and his grip tightened on the hornbow, a surge of crisp, icy energy burst through him. The ordinary weapon transformed before his very eyes, as if Ullr himself had reached down from the frozen heavens to imbue it with divine power. In that silent, awe-filled moment, a soft, ancient voice whispered in Riven’s mind, “I am Winter’s Vigil.”
+
+Awe and renewed strength filled him. With the power of Winter’s Vigil coursing through him, Riven broke free from his pursuers and continued his journey, carrying the memory of his friends. Every clear twang of the bowstring and every echo of the arrow's flight became a reminder of Liora’s kindness, Torran’s courage, and Etta’s unwavering spirit. And though his desperate search for them had failed, Riven held fast to the promise that as long as he had Winter’s Vigil in his hands, he would one day be reunited with his beloved friends.
+
+The world Riven once trusted has since shown its teeth. He believed Hannah was something worth saving — and was wrong. He trusted in the order of things — and was wrong. The wound didn’t break him open; it closed him down. Now he moves through the world more cautiously, meeting every offered hand with a quiet question and every promise with private doubt. He is still capable of fierce loyalty, but it must be earned, not assumed. He is wary of anyone who wields authority — those who speak of the greater good remind him too much of the people who almost destroyed him. He will follow, but only once he understands the cost.
+
+## Current State
+He sacrificed Winter's Vigil in the Temple of Tyr and received a new bow in return. It is hardwood, exquisitely made, and covered in runes from end to end. Its true nature is still hidden.

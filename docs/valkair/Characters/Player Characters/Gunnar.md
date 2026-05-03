@@ -1,6 +1,6 @@
 # Gunnar
-*Half-Orc - Ranger/Fighter - Pack backstory*
 
-Gunnar was found as a babe in a blood-marked burial tomb by [[The Pack]]. He grew up raiding with them and carries a small mirror that seems tied to something older than ordinary life.
+Gunnar was found in a burial tomb crying as a babe. The tomb walls were covered in the various runes enscribed in blood for [[Vallhalla]] and [[Hel]]. He had both [[Odins]] knot - the Valknut and the Rune for [[Hel]] scarred into his body. The screaming babe was found by [[The Pack]] on their way home from a recent raid on an elvish encampment. They heard chanting and scream of pain from one of the burial tombs. No-one knows what was meant for the Half Orc as part of the suspected ritual the only thing he has from the ritual was a single small hand mirror around his neck. The mirror is his last connection to a suspected ritual and provides him with some connection to the supernatural. All he knows now is he is a hunter for [[The Pack]].
 
-He is a hunter by trade and now bears the marks of several divine threads, including a cursed ring he took from Brelka.
+## Current State
+He now also wears the cursed ring taken from Brelka and has touched the Odin sanctum. The mirror and the ring are both live divine threads on one character.
