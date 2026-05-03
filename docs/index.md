@@ -1,20 +1,26 @@
 # Welcome
 
-You will find this is my creative place but its nice of you to drop by!
+This is my creative place. Most of it is Valkair, a Norse-inspired homebrew campaign wiki for Pathfinder 2e.
 
-![[og4.jpg]]
+![Valkair](valkair/imgs/og4.jpg)
 
-### Interests
-👀 I’m interested in api's and services of all sorts 👀  
-🌱 I’m currently building things - mostly with golang in AWS cloud native environments 🌱  
-💞️ I’m looking to collaborate on hobbies, ttrpgs, golang and tech stuff 💞️  
+## Start here
 
-### 📫 How to reach me;
+- [[World Overview]]
+- [[The Middens]]
+- [[Hammerfall]]
+- [[The Guild]]
+- [[The Pact]]
 
-- 🔗 linkedIn: [https://www.linkedin.com/in/williamvk/](https://www.linkedin.com/in/williamvk/)
-- 🐦 tweet me (or X me....I guess) @willyvank: [https://twitter.com/willyvank](https://twitter.com/willyvank)
+## What this site holds
 
----
-## [[World Overview]]
+World lore. Session notes. Characters. Places. Factions. The moving parts of the campaign, kept in one place so the table can follow the shape of the world as it changes.
 
-Valkair is my Norse-inspired Homebrew world for Pathfinder2e, we are right in the middle of our campaign at the moment and you will find lots of session planning, information on the world and lore.
+## About me
+
+I build things mostly with Go and AWS-native tools. I am interested in APIs, services, ttrpgs, and collaborative side projects.
+
+## Contact
+
+- LinkedIn: [williamvk](https://www.linkedin.com/in/williamvk/)
+- X: [@willyvank](https://twitter.com/willyvank)
