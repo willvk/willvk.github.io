@@ -12,4 +12,7 @@ Now forever on the run from The Guild, he can only attempt to atone for his past
 
 The hunt beneath the temple should have felt like redemption. Instead, the visions of what the ritual claimed — hundreds? thousands? — have settled into Hanzt's quiet hours like a slow poison. He knows well how to brew something that dulls the mind, and he has turned that knowledge on himself. Flasks appear as if from nowhere — tucked inside his coat, wedged behind his kit — and he reaches for them more often than he would like to admit. The alchemy that once made him feared has become the instrument of his own unravelling.
 
+## Current State
+He carries [[Storm's Essence]], his old crossbow torn open and rebuilt by kobold engineers around a storm-battery, after the party broke Thor's trial.
+
 ![[Guildhantz.png]]

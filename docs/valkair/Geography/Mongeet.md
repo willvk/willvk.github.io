@@ -171,7 +171,7 @@ Mongeet is home to a mix of **dockworkers, merchants, sailors, and criminals**, 
 
 ---
 
-### **10. [[Fex]] "The Whisper"** _(Information Broker & Shadow in the Market)_
+### **10. Fex "The Whisper"** _(Information Broker & Shadow in the Market)_
 
 - **Race:** Smallfolk (Halfling)
 - **Description:** A **frail, hooded figure** who seems to always be in the right place at the right time.

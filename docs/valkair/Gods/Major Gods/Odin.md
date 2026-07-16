@@ -21,7 +21,7 @@ From his throne in **Hrafnborg**, the great hall of battle and prophecy, Odin wa
 
 Odin is a **god of war, but not of honor**. He does not favor the strong alone—**he favors the cunning, the ruthless, and those who carve their own fate from the bones of the fallen**. He grants his wisdom only to those who dare to seek it, and his favor is fickle, given not out of love but as a test. To be chosen by Odin is to walk the razor’s edge of fate, for his blessing often leads men to both **glory and doom**.
 
-In battle, warriors **call his name in hopes of joining him in Valdrheim**, the **Halls of the Chosen**, where the mightiest of the slain feast and sharpen their weapons for the **Last War**. Yet, not all who worship him are warriors—scholars, seers, and mad wanderers also seek his favor, offering blood and sacrifice to glimpse even a fragment of his boundless knowledge.
+In battle, warriors **call his name in hopes of joining him in [[Valhalla]]**, the **Halls of the Chosen**, where the mightiest of the slain feast and sharpen their weapons for the **Last War**. Yet, not all who worship him are warriors—scholars, seers, and mad wanderers also seek his favor, offering blood and sacrifice to glimpse even a fragment of his boundless knowledge.
 
 The **mark of Odin’s favor** may come as a whispered secret in the dark, a spear that strikes true when all hope is lost, or an unavoidable **twist of fate** that alters a warrior’s path forever. But his **curse** is just as dire—those who displease him may find their battles lost before they begin, their knowledge fading into madness, or their names erased from history.
 

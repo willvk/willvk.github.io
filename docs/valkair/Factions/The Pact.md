@@ -11,5 +11,5 @@ Duties: Guards, Defense of the City, Distribution of food to the Elves, Trial by
 [[Yennen]] - [[The Guild]]
 Duties: Taxes, Moneylending, Merchant Licensing, Dock Trade, Paying the soldiers, Paying for City maintenance
 
-[[Speaker]] - [[The Chosen]]
+[[The Speaker]] - [[The Chosen]]
 Duties: Securing the Catacombs, Temples, Religious Events, Worship, Sacrifices

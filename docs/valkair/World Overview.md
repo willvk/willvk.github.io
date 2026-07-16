@@ -51,6 +51,7 @@ Valkair is a world of **darkness and horror**. **Monsters unknown to the world**
 - [[Ivar]]
 - [[Orgrim]]
 - [[Yennen]]
+- [[Veylith Lorarion]]
 
 ### Recent Faces
 - Vress - the old kobold matriarch of Depth 4
@@ -75,5 +76,15 @@ Valkair is a world of **darkness and horror**. **Monsters unknown to the world**
 - [[Thor]]
 - [[Loki]]
 - [[Heimdall]]
-- [[Jormungandr]]
-- [[Hel]]
+- Jormungandr
+- Hel
+
+### Lore & Stories
+- [[The Lay of Hrafn and the Hidden Lady]]
+
+### Artifacts
+- [[Loki's Kiss]]
+- [[Tyr's Measure]]
+- [[Vorgra]]
+- [[Liora's Whisper]]
+- [[Storm's Essence]]

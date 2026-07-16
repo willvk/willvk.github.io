@@ -1,7 +1,7 @@
 site_name: Devil's Snare
 site_description: Writings, thoughts, and notes on various topics.
 site_author: William Van Keulen
-site_url: https://www.williamvankeulen.com
+site_url: https://williamvk.com
 
 theme:
     name: 'material'
@@ -30,8 +30,6 @@ theme:
 markdown_extensions:
   - footnotes
   # - attr_list
-  - pymdownx.arithmatex:
-      generic: true
   # - pymdownx.superfences
   # - pymdownx.details
   # - pymdownx.magiclink
@@ -54,6 +52,7 @@ markdown_extensions:
 
 plugins:
   - search
+  - awesome-pages
   - roamlinks
   - rss:
       match_path: blog/posts/.* 
@@ -63,16 +62,10 @@ plugins:
         - categories
         - tags
 
-extra_javascript:
-  - javascripts/mathjax.js
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - https://unpkg.com/mermaid/dist/mermaid.min.js 
-
-
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/willvk.github.io
+      link: https://github.com/willvk
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/williamvk/
 

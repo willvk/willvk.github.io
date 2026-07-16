@@ -9,7 +9,7 @@ The Shallows holds the majority of people, they are sectioned off from Upper Ham
 ![[Shallows.png]]
 
 ## Districts of The Shallows
-### [[Njord's Mercy]]
+### Njord's Mercy
 The great tower and chapel district devoted to [[Njord]]. The tower protects the river port. The district is called Njord's Mercy due to a plea to the sea and wind god [[Njord]] to spare the souls entering the city by this means.
 
 ### [[Mongeet]]
@@ -23,10 +23,10 @@ Slightly higher class of elves, skilled labourers or more valued Elves.
 
 ### [[Richeri]]
 Market districts and roads to Upper Hammerfall.
-#### [[Kingsroad]]
+#### Kingsroad
 Road to [[Upper Hammerfall]], previously called the High Kings road but has become known as Kingsroad
 
-### [[Orgate]]
+### Orgate
 Previously known as the Ork gate due to the prevalence of Ork attacks through the southwestern gates to the city.
 
 ## Notable Locations

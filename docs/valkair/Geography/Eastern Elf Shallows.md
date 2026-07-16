@@ -15,5 +15,3 @@ Beyond the bell tower lies the **Ancient Elven Tomb**, a gaping wound in the ear
 
 Near the outskirts, a pitiful wooden stall stands under the watchful eyes of orcish guards—the so-called **distribution center**. Here, the elves are given just enough food to prolong their suffering, never enough to quell their hunger. The orcs despise this duty, their contempt plain in every snarl and shove as they toss scraps to outstretched hands. The stall is as much a place of cruelty as it is of sustenance.
 
-[[Shallows distribution duty]]
-

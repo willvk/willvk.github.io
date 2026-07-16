@@ -1,0 +1,1 @@
+A simple orcish village where [[Brawn]] grew up, known for the specialized grappling techniques its orcs used to subdue the large animals they rode as mounts. He left after falling on hard times and moved on to wrestle for entertainment in a nearby village.
