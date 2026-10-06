@@ -18,4 +18,6 @@ Nothing supernatural confirmed yet. No divine mark, no whispered name, no rune. 
 
 ## Current Bearer
 
-[[Gunnar]].
+[[Gunnar]] carried it through Act 1. The Guild took it from him with everything else, and [[Tarod]] was last seen dragging it along the cell doors. He admired it while he did.
+
+> "A bat wrapped in wire. They raised you well."
