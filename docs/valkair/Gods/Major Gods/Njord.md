@@ -4,13 +4,13 @@ Njord is a powerful and respected god in Norse mythology, known for his dominion
 
 ### **Appearance**:
 ![[Norse-God-Of-The-Sea-1024x509.jpg]]
-Njord is often depicted as a tall, handsome figure with sun-kissed skin and long, flowing hair the color of seafoam. His eyes are deep blue, like the ocean itself, and his expression is calm but commanding. His attire is a blend of sailor's garb and royal finery—simple, yet regal, reflecting his mastery of both the mundane and the divine. He is often shown standing against the backdrop of crashing waves or in the midst of a calm sea breeze, with seafaring symbols such as tridents, anchors, or ropes around him. A pair of gulls or sea creatures might often be perched at his side, symbolizing his connection to the natural world.
+Njord is often depicted as a tall, handsome figure with sun-kissed skin and long, flowing hair the color of seafoam. His eyes are deep blue, like the ocean itself, and his expression is calm but commanding. His attire is a blend of sailor's garb and royal finery, simple, yet regal, reflecting his mastery of both the mundane and the divine. He is often shown standing against the backdrop of crashing waves or in the midst of a calm sea breeze, with seafaring symbols such as tridents, anchors, or ropes around him. A pair of gulls or sea creatures might often be perched at his side, symbolizing his connection to the natural world.
 
 ### **Personality**:
 
 Njord is a calm and wise god, with a deep connection to the forces of nature that shape the world. He is both a protector and a provider, watching over those who work the seas and rely on the elements to make their living. He is generous to those who show respect for the sea’s bounty and the winds’ fickleness, but he is also a god of great change, recognizing the need for both calm and storm in the cycles of life.
 
-He is a god of balance—neither harsh nor indulgent, but someone who teaches that wealth and success come with a fair share of risk. He values practical wisdom, cunning, and adaptability. Njord is a patron of sailors and adventurers, but also a deity who understands the value of commerce, trade, and peaceful interactions between people.
+He is a god of balance, neither harsh nor indulgent, but someone who teaches that wealth and success come with a fair share of risk. He values practical wisdom, cunning, and adaptability. Njord is a patron of sailors and adventurers, but also a deity who understands the value of commerce, trade, and peaceful interactions between people.
 
 ### **Domains and Powers**:
 
@@ -32,7 +32,7 @@ Njord’s followers wear simple, practical clothing, often with symbols of the s
 
 ### **Symbolism and Items**:
 
-- **Symbol**: Njord’s symbol is often a trident, an anchor, or a ship’s wheel—symbols of the sea and travel. In some depictions, a fish or a pair of seagulls may accompany the trident, reinforcing his connection to the creatures of the ocean and the winds.
+- **Symbol**: Njord’s symbol is often a trident, an anchor, or a ship’s wheel, symbols of the sea and travel. In some depictions, a fish or a pair of seagulls may accompany the trident, reinforcing his connection to the creatures of the ocean and the winds.
 
 - **Sacred Items**: Njord’s sacred item is often a ship’s figurehead or a carved relic made from driftwood or bones of sea creatures. This item is said to have the power to calm storms or guide ships to safe shores. Njord’s followers may also carry a sacred conch shell or a compass, which they believe can always point toward the best path for a journey or trade.
 
@@ -46,7 +46,7 @@ Njord can also be a source of conflict in a campaign if his domain is threatened
 
 Njord might bless the party with favorable winds during their travels, allowing them to reach distant shores more quickly or to avoid danger. He might also grant them the ability to speak with sea creatures, allowing the party to learn hidden secrets of the ocean or gain guidance from ancient marine spirits.
 
-In times of peril, Njord’s presence might manifest as a sudden calm in the storm, guiding the party through turbulent waters. If a character offers a sacrifice to Njord, it could be a coin thrown into the sea or a small token of appreciation for safe passage—a ritual that might strengthen the party’s connection to his powers.
+In times of peril, Njord’s presence might manifest as a sudden calm in the storm, guiding the party through turbulent waters. If a character offers a sacrifice to Njord, it could be a coin thrown into the sea or a small token of appreciation for safe passage, a ritual that might strengthen the party’s connection to his powers.
 
 Njord might also call upon adventurers to embark on a quest to retrieve a lost artifact or sacred item from the ocean depths. This could involve diving into submerged ruins, battling sea monsters, or finding the perfect trade route to bring prosperity to a town or kingdom.
 

@@ -1,6 +1,6 @@
 # The Lay of Hrafn and the Hidden Lady
 
-*Cut into the left-hand wall of Galanthas, the Flower Gate, in dancing elven script — found by the party on their way into [[Freya]]'s temple beneath the Hollow Coin.*
+*Cut into the left-hand wall of Galanthas, the Flower Gate, in dancing elven script, found by the party on their way into [[Freya]]'s temple beneath the Hollow Coin.*
 
 ---
 

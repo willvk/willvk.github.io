@@ -2,7 +2,7 @@ The Elves were the first children of the gods. Beloved by the gods and given man
 
 Despite their accomplishments for some reason the Elves have been dwindling of late. Perhaps this is the prevalence of the barbaric races and the interbreeding between them or perhaps the Elves themselves are responsible for their own downfall.
 
-The Elves are a strict class system and selective monarchy where the High King/Queen is selected from the ruling aristocrazy of the noble families, due to their long lifespans the selection of a new ruler is rarely needed.
+The Elves are a strict class system and selective monarchy where the High King/Queen is selected from the ruling aristocracy of the noble families, due to their long lifespans the selection of a new ruler is rarely needed.
 
 - [[Thrandurassil]] Elves
 - [[Netherese]] Elves

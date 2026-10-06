@@ -32,7 +32,7 @@ Previously known as the Ork gate due to the prevalence of Ork attacks through th
 ## Notable Locations
 ### **The Drowned Man** (Njord’s Mercy)
 
-A dockside tavern and shrine to Njord, serving sailors, merchants, and travelers. It’s run by **Captain Yarra Thorne**, a retired pirate turned priestess. Legends say Njord spared her from a storm, and she now offers safe passage blessings—for a price.
+A dockside tavern and shrine to Njord, serving sailors, merchants, and travelers. It’s run by **Captain Yarra Thorne**, a retired pirate turned priestess. Legends say Njord spared her from a storm, and she now offers safe passage blessings, for a price.
 
 ### **The Hollow Coin** (Richeri)
 
@@ -44,7 +44,7 @@ A crumbling bell tower where elves gather to mourn their ancestors. The bell, wh
 
 ### **The Bone Market** (Orgate)
 
-A rough-and-tumble marketplace selling illicit goods, rare beast parts, and even rumored necromantic artifacts. The local enforcer, **Gorza Redjaw**, an aging half-orc, keeps order with brute strength and an iron will.
+A rough-and-tumble marketplace selling illicit goods, rare beast parts, and even rumored necromantic artifacts. The local enforcer, **Gorza Redjaw**, an aging half-Ork, keeps order with brute strength and an iron will.
 
 ## Notable Characters
 ### **Brother Edvin Stormveil** (Njord’s Mercy)
@@ -60,16 +60,16 @@ A dwarven mercenary with an iron jaw and a mechanical arm, said to be a relic of
 A healer who secretly brokers information for a mysterious client in Upper Hammerfall. She trades healing services for secrets.
 
 ### [[Kvarrac]] (Mongeet)
-An urban legend whispered about in the streets—a mysterious figure who controls the city’s underbelly. Some say he’s a mutant, others a masked noble in hiding.
+An urban legend whispered about in the streets: a mysterious figure who controls the city’s underbelly. Some say he’s a mutant, others a masked noble in hiding.
 
 ## **Adventure Hooks**
-1. **The Sunken Vault** – A flood has exposed a forgotten vault beneath Njord’s Mercy. Strange symbols and drowned corpses suggest something was buried there for a reason.
-2. **The Bell Toll at Midnight** – An unknown figure has rung the Lamenting Bell at midnight for three nights in a row. Now, ghosts have begun appearing, seeking justice for past crimes.
-3. **Murder on Kingsroad** – A wealthy merchant was found dead on Kingsroad with a single elven arrow in his chest. Elves are being blamed, but some suspect a setup.
-4. **The Sewer Cult** – Disappearances in Mongeet lead to an underground cult that worships something lurking beneath the city.
-5. **The Smuggler’s Map** – A half-burned map found in a dead man’s pocket points to a hidden passage beneath the Hollow Coin.
+1. **The Sunken Vault**: A flood has exposed a forgotten vault beneath Njord’s Mercy. Strange symbols and drowned corpses suggest something was buried there for a reason.
+2. **The Bell Toll at Midnight**: An unknown figure has rung the Lamenting Bell at midnight for three nights in a row. Now, ghosts have begun appearing, seeking justice for past crimes.
+3. **Murder on Kingsroad**: A wealthy merchant was found dead on Kingsroad with a single elven arrow in his chest. Elves are being blamed, but some suspect a setup.
+4. **The Sewer Cult**: Disappearances in Mongeet lead to an underground cult that worships something lurking beneath the city.
+5. **The Smuggler’s Map**: A half-burned map found in a dead man’s pocket points to a hidden passage beneath the Hollow Coin.
 
 ## **Secrets & Points of Interest**
 
-- **The City Beneath** – The Ancient Elven Tomb is actually an entrance to an ancient, buried district predating Hammerfall itself. Strange carvings hint at forsaken gods.
-- **The River Serpent** – Some sailors whisper that something enormous moves beneath the waters near Njord’s Mercy, watching and waiting.
+- **The City Beneath**: The Ancient Elven Tomb is actually an entrance to an ancient, buried district predating Hammerfall itself. Strange carvings hint at forsaken gods.
+- **The River Serpent**: Some sailors whisper that something enormous moves beneath the waters near Njord’s Mercy, watching and waiting.

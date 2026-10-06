@@ -6,11 +6,11 @@ A notorious bar built on stilts over the river in **[[Mongeet]]**, the Black Tid
 
 ### **The People of the Black Tide Tavern**
 
-#### **Owner: [[Varka]] "Low Tide" Brogg (Half-Orc, Female, Mid-40s)**
+#### **Owner: [[Varka]] "Low Tide" Brogg (Half-Ork, Female, Mid-40s)**
 
 #### **Cook: Ol’ Mohr (Human, Male, 60s)**
 
-A grizzled former ship captain, Ol’ Mohr is a bearded, one-eyed man with a permanent smell of salt and fish oil. He cooks whatever comes off the boats that morning—whether it's fresh or not. His most infamous dish, **"The Tide's Wrath"**, is a stew that has been rumored to knock out even the toughest sailors.
+A grizzled former ship captain, Ol’ Mohr is a bearded, one-eyed man with a permanent smell of salt and fish oil. He cooks whatever comes off the boats that morning, whether it's fresh or not. His most infamous dish, **"The Tide's Wrath"**, is a stew that has been rumored to knock out even the toughest sailors.
 
 #### **Bartender: "Silver" Jassi (Human, Non-Binary, Late 20s)**
 
@@ -21,8 +21,8 @@ PC / Bartender
 
 #### **Regulars & Notable Patrons**
 
-1. **"Three-Tooth" Gallack (Half-Orc, Male, 50s)** – A retired smuggler who now runs gambling rings in the back of the tavern. He has only three teeth left, all gold.
-2. **Irelia "The Blackwater" (Human, Female, 30s)** – A mercenary and bounty hunter, often found sharpening her blades in the corner.
-3. **Old Finn (Human, Male, 70s)** – A harmless, drunk fisherman who claims he once caught a mermaid and let her go. No one believes him.
-4. [[Brelka]] "The Riptide" (Human, Female, 40s)** – A sailor-turned-smuggler who deals in rare sea-based contraband, including banned elixirs and hallucinogenic seaweed.
-5. **"Shark" Garrik (Dwarf, Male, Late 30s)** – A massive brawler with a missing nose and a tattoo of a shark across his chest. Always looking for a fight.
+1. **"Three-Tooth" Gallack (Half-Ork, Male, 50s)**: A retired smuggler who now runs gambling rings in the back of the tavern. He has only three teeth left, all gold.
+2. **Irelia "The Blackwater" (Human, Female, 30s)**: A mercenary and bounty hunter, often found sharpening her blades in the corner.
+3. **Old Finn (Human, Male, 70s)**: A harmless, drunk fisherman who claims he once caught a mermaid and let her go. No one believes him.
+4. [[Brelka]] "The Riptide" (Human, Female, 40s)**: A sailor-turned-smuggler who deals in rare sea-based contraband, including banned elixirs and hallucinogenic seaweed.
+5. **"Shark" Garrik (Dwarf, Male, Late 30s)**: A massive brawler with a missing nose and a tattoo of a shark across his chest. Always looking for a fight.

@@ -21,7 +21,7 @@
 
 ### **Divine Font**
 
-Heal or Harm (GM's choice—Frigg is dual-natured: she is as nurturing as she is willing to let fate run its grim course)
+Heal or Harm (GM's choice; Frigg is dual-natured: she is as nurturing as she is willing to let fate run its grim course)
 
 ### **Symbol**
 

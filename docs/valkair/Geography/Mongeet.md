@@ -1,10 +1,11 @@
-## **Mongeet – The Beating Heart of the River Trade**
+## **Mongeet: The Beating Heart of the River Trade**
 
-### _"The tide brings fortune, and the tide takes it away."_ – Common saying in Mongeet
+### _"The tide brings fortune, and the tide takes it away."_  
+Common saying in Mongeet
 
 Mongeet, once called _The Fishmonger's Meet_, is the bustling river district of **The Shallows of Hammerfall**. Over time, the name was shortened through common speech, but its essence remains: **trade, toil, and tides**. It is the **lifeblood of commerce**, where boats from the **wider world** unload goods, fishmongers and dockworkers battle for the best catch, and smugglers slink in the shadows.
 
-Mongeet is a place of **constant movement**—the river carries ships and secrets alike, and those who cannot keep up with its flow **drown in its currents**, figuratively or literally.
+Mongeet is a place of **constant movement**. The river carries ships and secrets alike, and those who cannot keep up with its flow **drown in its currents**, figuratively or literally.
 
 ---
 
@@ -36,12 +37,12 @@ A notorious drinking hole and smuggler’s den, built on stilts over the river. 
 
 ### **The Salt Market**
 
-A sprawling open-air market that **never fully closes**—even in the dead of night, someone is selling something. It is the best place to buy:
+A sprawling open-air market that **never fully closes**. Even in the dead of night, someone is selling something. It is the best place to buy:
 
 - **Fresh & smoked fish** (some from the deep, best not to ask).
 - **Rare goods** smuggled in from distant lands.
 - **Alchemy reagents** taken from the river’s depths.
-- **Cursed trinkets**—at least, according to their desperate sellers.
+- **Cursed trinkets**, at least, according to their desperate sellers.
 
 ### **The Sunken Steps**
 
@@ -53,7 +54,7 @@ A shrine dedicated to **Njord**, where fishermen and sailors pray before voyages
 
 ### **The Drowned Wharf**
 
-A section of the docks that **collapsed into the river years ago**. Some say it was an accident, others whisper that something **dragged it down**. Now, it is a resting place for those who don't wish to be found—alive or dead.
+A section of the docks that **collapsed into the river years ago**. Some say it was an accident, others whisper that something **dragged it down**. Now, it is a resting place for those who don't wish to be found, alive or dead.
 
 ---
 
@@ -63,10 +64,10 @@ Mongeet is home to a mix of **dockworkers, merchants, sailors, and criminals**, 
 
 ### **Common Denizens**
 
-- **Norsemen Dockworkers & Fishmongers** – Hardy and weathered men and women who work the docks and fish the river. Many come from generations of riverfolk and take pride in their craft.
-- **Ork Haulers & Laborers** – The backbone of Mongeet’s workforce, Orks are valued for their raw strength, loading and unloading cargo at a brutal pace. Many work for a **daily wage of ale and meat**, though some form their own independent crews.
-- **Smallfolk Scavengers & Tinkerers** – Goblins, gnomes, and halflings make a living **scavenging shipwrecks**, repairing nets, or running small market stalls selling exotic trinkets. Their **small size and cunning** make them excellent at navigating the city's tightest alleys.
-- **Dwarven Traders & Mercenaries** – While rare, Dwarves occasionally pass through Mongeet on trade routes or as **hardened sellswords** looking for work. Some **banished dwarves** carve out a living as brutal enforcers for smugglers or criminal enterprises.
+- **Norsemen Dockworkers & Fishmongers**: Hardy and weathered men and women who work the docks and fish the river. Many come from generations of riverfolk and take pride in their craft.
+- **Ork Haulers & Laborers**: The backbone of Mongeet’s workforce, Orks are valued for their raw strength, loading and unloading cargo at a brutal pace. Many work for a **daily wage of ale and meat**, though some form their own independent crews.
+- **Smallfolk Scavengers & Tinkerers**: Goblins, gnomes, and halflings make a living **scavenging shipwrecks**, repairing nets, or running small market stalls selling exotic trinkets. Their **small size and cunning** make them excellent at navigating the city's tightest alleys.
+- **Dwarven Traders & Mercenaries**: While rare, Dwarves occasionally pass through Mongeet on trade routes or as **hardened sellswords** looking for work. Some **banished dwarves** carve out a living as brutal enforcers for smugglers or criminal enterprises.
 
 ### Notable Characters
 
@@ -94,7 +95,7 @@ Mongeet is home to a mix of **dockworkers, merchants, sailors, and criminals**, 
 - **Personality:** Wise, mysterious, and deeply feared despite her frailty.
 - **Secrets & Hooks:**
     - Said to be **over a hundred years old**, yet some claim they’ve seen her in old paintings looking exactly the same.
-    - Whispers to the river at night—some say **the water whispers back**.
+    - Whispers to the river at night. Some say **the water whispers back**.
     - Keeps **a ledger of names**, marking those who will soon drown.
 
 ---
@@ -115,7 +116,7 @@ Mongeet is home to a mix of **dockworkers, merchants, sailors, and criminals**, 
 
 - **Race:** Ork
 - **Description:** A thick-muscled Ork with **barnacle scars on his arms** and a **permanent river stink**.
-- **Personality:** Loud, brash, and **completely fearless**—or completely insane.
+- **Personality:** Loud, brash, and **completely fearless**, or completely insane.
 - **Secrets & Hooks:**
     - Specializes in stealing **entire boats**, selling them downriver.
     - Claims to have **a treasure hoard** hidden beneath the docks.
@@ -131,7 +132,7 @@ Mongeet is home to a mix of **dockworkers, merchants, sailors, and criminals**, 
 - **Secrets & Hooks:**
     - Appears suddenly when **something bad is about to happen**.
     - Can **foresee drowning deaths**, but only tells those who will listen.
-    - Claims **"the river remembers"**—but what it remembers, she won’t say.
+    - Claims **"the river remembers"**, but what it remembers, she won’t say.
 
 ---
 
@@ -141,7 +142,7 @@ Mongeet is home to a mix of **dockworkers, merchants, sailors, and criminals**, 
 - **Description:** A hunched, bald man with **deep scars on his arms** and a **belt full of bone saws**.
 - **Personality:** Morbid, calculating, and **fixated on anatomy**.
 - **Secrets & Hooks:**
-    - Will treat **any injury, no questions asked**—for a price.
+    - Will treat **any injury, no questions asked**, for a price.
     - **Harvests organs** from the dead, selling them to strange buyers.
     - Hears **things whispering beneath the floorboards** of his clinic.
 
@@ -155,7 +156,7 @@ Mongeet is home to a mix of **dockworkers, merchants, sailors, and criminals**, 
 - **Secrets & Hooks:**
     - Once **commanded a fleet of pirate raiders** before his men betrayed him.
     - Has **an old treasure map**, but he refuses to follow it.
-    - The river **owes him a debt**—but he won’t say what that means.
+    - The river **owes him a debt**, but he won’t say what that means.
 
 ---
 
@@ -177,23 +178,23 @@ Mongeet is home to a mix of **dockworkers, merchants, sailors, and criminals**, 
 - **Description:** A **frail, hooded figure** who seems to always be in the right place at the right time.
 - **Personality:** Soft-spoken, enigmatic, and **terrifyingly well-informed**.
 - **Secrets & Hooks:**
-    - Knows **everything worth knowing** in Mongeet—for a price.
+    - Knows **everything worth knowing** in Mongeet, for a price.
     - Never seen entering or leaving a building, yet **is always present**.
-    - Has **no known past**, yet old sailors swear they’ve seen him before—years, even decades ago, looking exactly the same.
+    - Has **no known past**, yet old sailors swear they’ve seen him before, years, even decades ago, looking exactly the same.
 
 ---
 ## **Secrets & Rumors**
 
-1. **The River Wraith** – Sailors swear they’ve seen a **ghostly figure** walking atop the water, calling out names in the night. Those who answer **vanish beneath the waves**.
-2. **The Smuggler’s Tunnel** – A secret tunnel, hidden under the Black Tide Tavern, leads to a **hidden cove** outside the city. Only a select few know its location.
-3. **The Drowned Ledger** – A book washed up on the docks, filled with names and cryptic symbols. A local gang is **willing to kill** to retrieve it.
-4. **Something Beneath the Water** – Old sailors claim that **deep beneath the river**, something **ancient and hungry** stirs. They say **Ol’ Mohr**, the tavern cook, knows the truth but drinks to forget.
+1. **The River Wraith**: Sailors swear they’ve seen a **ghostly figure** walking atop the water, calling out names in the night. Those who answer **vanish beneath the waves**.
+2. **The Smuggler’s Tunnel**: A secret tunnel, hidden under the Black Tide Tavern, leads to a **hidden cove** outside the city. Only a select few know its location.
+3. **The Drowned Ledger**: A book washed up on the docks, filled with names and cryptic symbols. A local gang is **willing to kill** to retrieve it.
+4. **Something Beneath the Water**: Old sailors claim that **deep beneath the river**, something **ancient and hungry** stirs. They say **Ol’ Mohr**, the tavern cook, knows the truth but drinks to forget.
 
 ---
 
 ## **Adventure Hooks**
 
-- **The Smuggler’s Heist** – A powerful noble from **Upper Hammerfall** is using Mongeet’s docks to transport **illegal artifacts**. Someone wants them stolen before they leave the city.
-- **The Missing Sailor** – A ship arrived without its captain, who was last seen **leaving the Black Tide Tavern at midnight**. His cabin contained strange waterlogged pages…
-- **The Sunken Vault** – A half-mad beggar claims that beneath the **Drowned Wharf**, a forgotten vault **still holds untold riches**—but it is guarded by **things not meant to be woken.**
-- **The Fisherman’s Curse** – A local fisherman claims he caught something **that spoke to him** before he threw it back. Now he believes he is cursed. The next storm might decide his fate.
+- **The Smuggler’s Heist**: A powerful noble from **Upper Hammerfall** is using Mongeet’s docks to transport **illegal artifacts**. Someone wants them stolen before they leave the city.
+- **The Missing Sailor**: A ship arrived without its captain, who was last seen **leaving the Black Tide Tavern at midnight**. His cabin contained strange waterlogged pages…
+- **The Sunken Vault**: A half-mad beggar claims that beneath the **Drowned Wharf**, a forgotten vault **still holds untold riches**, but it is guarded by **things not meant to be woken.**
+- **The Fisherman’s Curse**: A local fisherman claims he caught something **that spoke to him** before he threw it back. Now he believes he is cursed. The next storm might decide his fate.

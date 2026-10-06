@@ -4,7 +4,7 @@ In Norse mythology, Eir is a revered figure associated with healing, protection,
 
 ### **Appearance**:
 
-Eir is often depicted as a serene and graceful woman, with an aura of gentle light surrounding her. Her long, silver hair flows like moonlight, and her eyes shine with the calm of a healing spring. She wears simple, yet elegant robes of soft colors—often white, pale blue, or green—symbolizing her connection to both the healing arts and the natural world. Eir may also carry a staff or a healing herb pouch, often with sacred vials of elixirs or potions for restoring life.
+Eir is often depicted as a serene and graceful woman, with an aura of gentle light surrounding her. Her long, silver hair flows like moonlight, and her eyes shine with the calm of a healing spring. She wears simple, yet elegant robes of soft colors, often white, pale blue, or green, symbolizing her connection to both the healing arts and the natural world. Eir may also carry a staff or a healing herb pouch, often with sacred vials of elixirs or potions for restoring life.
 
 ### **Personality**:
 
@@ -14,7 +14,7 @@ Though she is gentle and merciful, she is also firm in her belief that healing r
 
 ### **Domains and Powers**:
 
-- **Healing and Restoration**: Eir's primary domain is the healing of wounds, diseases, and ailments. She grants her followers the ability to cure diseases, heal injuries, and alleviate suffering. She can mend broken bones, heal fevers, and bring those on the brink of death back to life—although the restoration of life may require great sacrifice or a special ritual.
+- **Healing and Restoration**: Eir's primary domain is the healing of wounds, diseases, and ailments. She grants her followers the ability to cure diseases, heal injuries, and alleviate suffering. She can mend broken bones, heal fevers, and bring those on the brink of death back to life, although the restoration of life may require great sacrifice or a special ritual.
     
 - **Mercy and Compassion**: Eir embodies mercy in all its forms. She encourages acts of kindness, even toward enemies or those who have wronged others. Her followers often focus on forgiveness and helping others overcome their past mistakes, offering second chances where others might not.
     
@@ -50,4 +50,4 @@ Her followers might be called to mediate disputes between warring factions or he
 
 Eir’s blessings might manifest in subtle ways, such as a sudden surge of strength when an ally is on the brink of death or a burst of warmth that soothes the pain of a grievous wound. If a character prays or makes a sacrifice to Eir, they may experience a moment of profound clarity, or perhaps a gentle whisper in the wind that guides them toward their next healing task.
 
-A campaign centered around Eir might involve themes of self-sacrifice, mercy, and the value of healing—not just physical wounds, but emotional and spiritual ones as well. She could challenge the party to save an entire town from a deadly disease or aid a fallen hero in finding peace as they pass into the afterlife.
+A campaign centered around Eir might involve themes of self-sacrifice, mercy, and the value of healing, not just physical wounds, but emotional and spiritual ones as well. She could challenge the party to save an entire town from a deadly disease or aid a fallen hero in finding peace as they pass into the afterlife.

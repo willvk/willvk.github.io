@@ -5,7 +5,7 @@ The Eastern Elf Shallows is a place of silent suffering and lingering ghosts. Th
 A crumbling bell tower where elves gather to mourn their ancestors. The bell, when rung, is said to reveal the restless spirits of wronged elves.
 A crumbling bell tower rises above the district, its foundation sinking into the rot beneath. The once-grand structure is now little more than a skeletal ruin, its bell rusted but still intact. When the wind blows, it groans in protest, as if carrying the voices of the elves who gather there to mourn. Some claim that when the bell is rung, the wronged dead stir, their restless spirits whispering curses upon the living. No one lingers when that sound echoes through the district.
 
-Hooks - . **The Bell Toll at Midnight** – An unknown figure has rung the Lamenting Bell at midnight for three nights in a row. Now, ghosts have begun appearing, seeking justice for past crimes.
+Hooks - . **The Bell Toll at Midnight**: An unknown figure has rung the Lamenting Bell at midnight for three nights in a row. Now, ghosts have begun appearing, seeking justice for past crimes.
 
 ### Ancient Elven Tomb
 
@@ -13,5 +13,5 @@ Beyond the bell tower lies the **Ancient Elven Tomb**, a gaping wound in the ear
 
 ### The Distribution Center
 
-Near the outskirts, a pitiful wooden stall stands under the watchful eyes of orcish guards—the so-called **distribution center**. Here, the elves are given just enough food to prolong their suffering, never enough to quell their hunger. The orcs despise this duty, their contempt plain in every snarl and shove as they toss scraps to outstretched hands. The stall is as much a place of cruelty as it is of sustenance.
+Near the outskirts, a pitiful wooden stall stands under the watchful eyes of Orkish guards, the so-called **distribution center**. Here, the elves are given just enough food to prolong their suffering, never enough to quell their hunger. The Orks despise this duty, their contempt plain in every snarl and shove as they toss scraps to outstretched hands. The stall is as much a place of cruelty as it is of sustenance.
 
