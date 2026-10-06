@@ -1,0 +1,56 @@
+/* Valkair look and feel.
+   Colours come from Material's own variables, so light and dark both follow the palette.
+   No external fonts: the serif stack is system fonts only. */
+
+:root {
+  --valkair-serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+}
+
+/* Headings in a book serif. */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-family: var(--valkair-serif);
+  letter-spacing: 0;
+}
+
+.md-typeset h1 {
+  font-weight: 700;
+  color: var(--md-default-fg-color);
+  margin-bottom: 0.6em;
+}
+
+.md-typeset h2 {
+  font-weight: 600;
+  padding-bottom: 0.2em;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+/* The italic line under a page title is the lede: the recap hook, or a character's epithet. */
+.md-typeset h1 + p > em:only-child {
+  display: block;
+  font-family: var(--valkair-serif);
+  font-size: 1.2em;
+  line-height: 1.5;
+  color: var(--md-default-fg-color--light);
+  padding-left: 0.8em;
+  border-left: 3px solid var(--md-accent-fg-color);
+}
+
+/* Body copy: a little more air between lines for long recaps. */
+.md-typeset p,
+.md-typeset li {
+  line-height: 1.7;
+}
+
+/* Pull quotes: spoken lines lifted out of a recap. */
+.md-typeset blockquote {
+  font-family: var(--valkair-serif);
+  font-size: 1.1em;
+  color: var(--md-default-fg-color);
+}
+
+/* Material sets the quote border under a [dir] selector, so match that to recolour it. */
+[dir] .md-typeset blockquote {
+  border-color: var(--md-accent-fg-color);
+}
