@@ -39,13 +39,13 @@ Valkair is a world of **darkness and horror**. **Monsters unknown to the world**
 - [[Dwarves]]
 
 ### Player Characters
-- [[Balder]]
 - [[Brawn]]
 - [[Gunnar]]
 - [[Riven]]
 - [[Hanzt]]
 
 ### Major Characters
+- [[Balder]]
 - [[Caerdan]]
 - [[Hannah]]
 - [[Ivar]]
