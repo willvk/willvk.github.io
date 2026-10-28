@@ -25,7 +25,7 @@ That's the throughline as far as the party has seen it: Thor's trials look like 
 
 ### **Followers & Worship**
 
-- **Holy Sites:** Thor's flooded chamber beneath Hammerfall, part of the Pilgrimage of the Eight.
+- **Holy Sites:** Thor's flooded chamber beneath Hammerfall, part of the [[The Pilgrimage of the Eight|Pilgrimage of the Eight]].
 - **Worshippers:** Unconfirmed among the living factions the party has met. Thor's presence in Valkair so far is mostly through trial and story rather than open congregation.
 - **Rituals:** None witnessed directly. The Lay of Hrafn suggests Thor keeps his own counsel and settles his bets without ceremony.
 

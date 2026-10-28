@@ -1,5 +1,5 @@
 # Hannah
-*aka Hannah Half-Elven, Hannah the Forsaken. Daughter of [[Heimdall]] and Queen [[Aduni]] Thrandurassil. Servant of the demon lord Osgilliath. Central antagonist of Act 1.*
+*aka Hannah Half-Elven, Hannah the Forsaken. Daughter of [[Heimdall]] and Queen [[Aduni]] Thrandurassil. Servant of the demon lord [[Osgilliath]]. Central antagonist of Act 1.*
 
 ## The Queen's Shame
 

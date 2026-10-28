@@ -93,6 +93,8 @@ Valkair is a world of **darkness and horror**. **Monsters unknown to the world**
 
 ### Lore & Stories
 - [[The Lay of Hrafn and the Hidden Lady]]
+- [[The Pilgrimage of the Eight]]
+- [[Osgilliath]]
 
 ### Artifacts
 - [[Loki's Kiss]]
