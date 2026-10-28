@@ -24,3 +24,9 @@ They heard him first the second time too. He came down the row of iron doors dra
 > "Fine bow. Tyr's work, I am told. It will fetch more than you ever would have."
 
 He enjoyed himself.
+
+## The Oasis
+
+He showed his face once more, at the oasis beyond the cells, while the company was running for the falls. He stayed long enough to mock the two who would not run.
+
+*"The mighty Orks flee."*

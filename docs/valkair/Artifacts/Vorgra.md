@@ -18,6 +18,6 @@ Nothing supernatural confirmed yet. No divine mark, no whispered name, no rune. 
 
 ## Current Bearer
 
-[[Gunnar]] carried it through Act 1. The Guild took it from him with everything else, and [[Tarod]] was last seen dragging it along the cell doors. He admired it while he did.
+[[Gunnar]] carried it through Act 1. The Guild took it from him with everything else, and [[Tarod]] dragged it along the cell doors, admiring it while he did. It came back in a barrel at the resting place under the mountain, with everything else the Guild had taken, and Gunnar has it again.
 
 > "A bat wrapped in wire. They raised you well."

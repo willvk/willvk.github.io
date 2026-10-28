@@ -10,3 +10,11 @@ He did more than let them walk. When the council heard of the sealed door and it
 [[The Guild]] took him with the rest. He was held in the same row of cells as Orgrim, and when [[Yennen]] came begging for Hammerfall to be given up, neither Ork gave him anything.
 
 > "Yoooou picked a poor place to beg, little man."
+
+## The Falls
+
+At the oasis beyond the cells, when the company ran for the falls, Grukk stayed with Orgrim and fought. When the creature the Guild had promised came through the southern wall, he bared his teeth and set himself to charge it. [[Orgrim]] got there first and knocked him into the water.
+
+> "You will not fall today, old man. This is not your fight. He is mine."
+
+Grukk went over the falls with the rest of the company.
