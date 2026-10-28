@@ -14,3 +14,7 @@ He was tending bar at [[The Black Tide Tavern]] when the party came together, an
 In the council chamber he had Ivar wounded on the floor and a blade at his throat. *I should put you down for everything you have done, but I am not a strong enough man, and I will not hold you guilty for my own weakness.* He turned away. Harald did not.
 
 After that night Balder left the party to steward the Norse for a boy-jarl. He was beside Harald in the ruined sanctum when the Guild came, and in the next cell when [[Yennen]] came begging. His counsel to the boy is plain. Let Hammerfall go. Come home to Yorvik, where Balder can keep him safe until he is older.
+
+## Under the Mountain
+
+At the resting place, with the company's gear back in its hands and Orgrim ready to leave without Yennen, Balder did not get up. *"He had no reason to bring us here. Less reason to give it all back. He's earned some time."* Harald agreed with him, and Yennen came. When the company ran for the falls at the oasis beyond, Balder went over with the rest of them.

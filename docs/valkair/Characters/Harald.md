@@ -8,3 +8,7 @@ He was in the council chamber when the Blood Elves came through the doors. Ivar 
 That made him Jarl. Balder left the party to be his Steward and Advisor, and to keep a boy-jarl's people from scattering. They scattered anyway. The [[Norse]] are no longer one tribe, and only the rivertowns of [[Yorvik]] and Cattegut still answer his call.
 
 He walked into the ruined sanctum after [[Hannah]] died, trying to stand like a Jarl, and had one minute of victory before [[The Guild]] took him with the rest. In the cells [[Yennen]] begged him to give up Hammerfall. Harald heard him out and gave him no answer he could carry back. Balder has told him what he thinks: let the city go and come home to Yorvik.
+
+## Under the Mountain
+
+At the resting place he sided with Balder and waited for Yennen. At the oasis beyond, when Brawn found the way out over the falls, Harald called a fighting retreat, and the company broke away across the island without being cut down from behind. He went over the falls with the rest of them.

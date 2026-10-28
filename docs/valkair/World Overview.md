@@ -29,7 +29,11 @@ Valkair is a world of **darkness and horror**. **Monsters unknown to the world**
 	- [[Dres Elas]]
 	- [[Upper Hammerfall]]
 	- [[The Shallows]]
+		- [[Richeri]]
 	- [[Catacombs]]
+- [[Yorvik]]
+- [[Murgrog]]
+- [[Mongeet]]
 
 ### Species & Peoples
 - [[Elves]]
@@ -43,19 +47,23 @@ Valkair is a world of **darkness and horror**. **Monsters unknown to the world**
 - [[Gunnar]]
 - [[Riven]]
 - [[Hanzt]]
+- Aran, a Guild soldier who defected with Yennen
 
 ### Major Characters
 - [[Balder]]
 - [[Caerdan]]
+- [[Grukk One-Tusk]]
 - [[Hannah]]
+- [[Harald]]
 - [[Ivar]]
 - [[Orgrim]]
+- [[Tarod]]
 - [[Yennen]]
 - [[Veylith Lorarion]]
 
-### Recent Faces
-- Vress - the old kobold matriarch of Depth 4
-- Skit - Vress's translator, quick enough to edit as he goes
+### Other Faces
+- Vress, the old kobold matriarch of Depth 4
+- Skit, Vress's translator, quick enough to edit as he goes
 
 ### Factions
 - [[The Guild]]
@@ -74,6 +82,8 @@ Valkair is a world of **darkness and horror**. **Monsters unknown to the world**
 - [[Odin]]
 - [[Freya]]
 - [[Thor]]
+- [[Tyr]]
+- [[Frigg]]
 - [[Loki]]
 - [[Heimdall]]
 - Jormungandr

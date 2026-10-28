@@ -1,5 +1,5 @@
 # Orgrim
-*Orgrim Doomhammer. Chieftain of all the Orks. Pact representative.*
+*Orgrim Doomhammer. Chieftain of all the Orks. Once Pact representative.*
 
 Orgrim leads the united Ork tribes and spoke for them on [[The Pact]]. He allied with [[Ivar]] to form the Great Heathen Army and helped take [[Hammerfall]] from the elves. In the council chamber he sat vast and still in his prime, with the skull-faced doomhammer across his knees.
 
