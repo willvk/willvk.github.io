@@ -1,7 +1,7 @@
 # Ivar Varangr
 *Ivar the Terrible. Jarl of the Norsemen. Pact representative. Dead.*
 
-Ivar was Jarl of the Norse town of Cattegut. From there he united the Norse tribes north of Hammerfall into a single host, allied with [[Orgrim]], and helped take the city from the elves. He sat on [[The Pact]] for the Norse.
+Ivar was Jarl of the Norse town of [[Cattegut]]. From there he united the Norse tribes north of Hammerfall into a single host, allied with [[Orgrim]], and helped take the city from the elves. He sat on [[The Pact]] for the Norse.
 
 He took what he wanted on the way up. When [[Balder]], Jarl of little [[Yorvik]], came home with a bride from the raids he had joined Cattegut on, Ivar and his men beat him down and carried her off. [[Ygritte]] was Ivar's wife from then on.
 

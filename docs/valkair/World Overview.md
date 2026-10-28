@@ -32,6 +32,8 @@ Valkair is a world of **darkness and horror**. **Monsters unknown to the world**
 		- [[Richeri]]
 	- [[Catacombs]]
 - [[Yorvik]]
+- [[Cattegut]]
+- [[Hreidmar]]
 - [[Murgrog]]
 - [[Mongeet]]
 
